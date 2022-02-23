@@ -58,7 +58,7 @@ permalink: none
 
 # polyglot configuration
 languages: ["en", "fr"]
-default_lang: ""
+default_lang: "x-default"
 exclude_from_localization: ["assets/css", "assets/img"]
 parallel_localization: true
 

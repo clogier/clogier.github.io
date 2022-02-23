@@ -4,8 +4,11 @@
 
 layout: home
 lang: en
+lang-exclusive: ['en']
 permalink: /
 ---
 
 
 Hello. [This is our menu.](/test/)
+
+Read [my CV](/resume/)
