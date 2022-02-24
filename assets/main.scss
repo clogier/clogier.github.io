@@ -4,8 +4,10 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: Bitter, "Apple SD Gothic Neo", AppleGothic, NanumBarunGothic, "Malgun Gothic", Dotum, sans-serif;
-$monospace-font-family: Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
+$base-font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir,
+    "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica,
+    "Helvetica Neue", sans-serif;
+$monospace-font-family: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -47,3 +49,24 @@ $on-laptop:        800px;
 
 // Import partials from the `whiteglass` theme.
 @import "whiteglass";
+
+
+
+
+//// User Tricks:
+
+
+// Scrollbar is always present to not upset the layout
+html {
+  overflow-y: scroll;
+}
+
+// To keep the footer at the bottom of the page
+body {
+  height:100vh; margin:0;
+  display:flex; 
+  flex-direction:column; 
+}
+footer{
+  margin-top:auto; 
+}
