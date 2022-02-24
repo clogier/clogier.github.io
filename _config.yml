@@ -29,7 +29,7 @@ github_username:  clogier
 comments: false
 
 # Build settings
-theme: jekyll-whiteglass
+
 plugins:
   - jekyll-feed
   - jekyll-polyglot
