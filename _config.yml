@@ -18,22 +18,29 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Clément Ogier's website
-email: your-email@example.com
+title: Clément Ogier
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Clément Ogier's website
+  Clément Ogier
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://clogier.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+github_username:  clogier
+comments: false
 
 # Build settings
-theme: minima
+theme: jekyll-whiteglass
 plugins:
   - jekyll-feed
   - jekyll-polyglot
   - jekyll-redirect-from
-permalink: none
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
+
+permalink: /:year/:month/:day/:title/
+paginate_path: /posts/:num/
+paginate: 5
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -54,7 +61,8 @@ permalink: none
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+exclude:
+  - README.md
 
 # polyglot configuration
 languages: ["en", "fr"]
@@ -65,4 +73,22 @@ parallel_localization: true
 sass:
   sourcemap: never
 
+markdown: kramdown
+excerpt_separator: "<!-- more -->"
+kramdown:
+  auto_ids: false
+  enable_coderay: false
+  entity_output: as_char
+  footnote_nr: 1
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  toc_levels: 1..6
+  
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 

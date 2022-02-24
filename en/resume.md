@@ -7,30 +7,74 @@ lang-exclusive: ['en']
 
 
 
-Clément Ogier
+My Résumé
 ============
 
 
-# Education
+## Education
 
-#### Master of Mathematics, Vision, Learning (M2)
-École normale supérieure Paris-Saclay.
-
-Courses taken in Learning, Vision, Image Processing, Statistics, Optimizia-
-tion. Possibility to take courses in NLP.
-
-#### Bachelor of Economics (L3), École Normale Supérieure, Paris,
-with highest honors.
-Gap-year between my first and second year of Master. Courses in economet-
-rics.
-Master of Computer Science (M1), École Normale Supérieure,
-Paris, with highest honors.
+- 2022: **Master of Mathematics, Vision, Learning (M2)**,
+*École normale supérieure Paris-Saclay*  
+Courses taken in Learning, Vision, Image Processing, Statistics, Optimiziation.
+- 2021: **Bachelor of Economics (L3)**,
+*École Normale Supérieure, Paris*,
+with highest honors.  
+Gap-year between my first and second year of Master. Courses in econometrics.
+- 2020: **Master of Computer Science (M1)**,
+*École Normale Supérieure, Paris*,
+with highest honors.  
 Courses in Machine Learning and Vision notably.
-2019
-Bachelor of Computer Science (L3), École Normale Supérieure,
-Paris, with highest honors.
-2018 Admitted at the ENS, Lycée Louis-le-Grand, Paris.
-Ranked 25 in the Mathematics/Computer Science competitive exam
-2016
-Baccalauréat in Science, Lycée Eugène Delacroix, Maisons-Alfort,
+- 2019: **Bachelor of Computer Science (L3)**,
+*École Normale Supérieure, Paris*,
 with highest honors.
+- 2018: **Admitted at the ENS**,
+*Lycée Louis-le-Grand, Paris*  
+Ranked 25 in the Mathematics/Computer Science competitive exam
+- 2017: **Baccalauréat in Science**,
+*Lycée Eugène Delacroix, Maisons-Alfort*,
+with highest honors.
+
+## Experience
+### Work Experience
+
+- **Two-month internship in Natural Language Processing.**
+*Sciences Po (Paris)*, Thomas Chaney.  
+Language processing of museum data to build a model of technological growth.
+- **Six-month internship in Reinforcement Learning.**
+*TU Delft (Delft)*, Javier Alonso-Mora.  
+Optimizing the reward function in symmetric Reinforcement Learning problems
+- **Two-month internship in Security and Compilation.**
+*MPI-SWS (Saarbrücken) and Inria (Sophia-Antipolis)*, Gilles Barthes.  
+Formally securing the SSA-transform to preserve the Non-Interference property.
+- **Tutoring a group of twelve students in science.**  
+As part of the TalENS initiative, which aims at helping high school students pursue higher education.
+
+### Coding Projects
+
+- **Image generation** SinGAN *(Pytorch)*
+- **Data Analysis** Mortality and wheat prices in Uzerche (France) *(R)*
+- **Physical Modeling** of wave propagation in a random heterogeneous medium *(Python)*
+- **Static Analyzer** for a C-like language *(OCaml)*
+- **Compiler** for a sub-language of Kotlin *(OCaml)*
+- **MIPS Processor Simulator** coded in a hardware description language *(Mini-Jazz)*
+
+## Coding Skills
+
+- *Good Level:* Python (and PyTorch), OCaml, R
+- *Intermediate:* C++, x86-64 assembly, PostgreSQL
+- *Basic:* Kotlin, Coq
+
+## Languages
+
+- French *Native*
+- English *Fluent*
+- German *Basic*
+
+
+
+
+
+
+
+
+

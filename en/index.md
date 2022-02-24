@@ -9,6 +9,7 @@ permalink: /
 ---
 
 
-Hello. [This is our menu.](/test/)
-
 Read [my CV](/resume/)
+
+
+

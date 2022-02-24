@@ -1,0 +1,33 @@
+en:
+  date:
+    format: "%b %-d, %Y" # See http://ruby-doc.org/core/Time.html#method-i-strftime for possible date formatting strings
+    abbr_day_names: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+    abbr_month_names: ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+      "Jul", "Aug", "Sep", "Oct", "Nov", "Dez"]
+    day_names: ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+    month_names: ["January", "February", "March", "April", "May", "June",
+      "July", "August", "September", "October", "November", "December"]
+  morelink: "Read on"
+  page-older: "Older"
+  page-newer: "Newer"
+  archive: "Blog Archive"
+  archive-category: "Archive of category '%1'"
+  archive-tag: "Archive of tag '%1'"
+  comments: "Comments"
+
+fr:
+  date:
+    format: "%-d %B %Y"
+    abbr_day_names: ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"]
+    abbr_month_names: ["Jan", "Fev", "Mar", "Avr", "Mai", "Jui",
+      "Jui", "Aou", "Sep", "Oct", "Nov", "Dec"]
+    day_names: ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"]
+    month_names: ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin",
+      "Juillet", "Aout", "Septembre", "Octobre", "Novembre", "Décembre"]
+  morelink: "Lire plus"
+  page-older: "Plus ancien"
+  page-newer: "Plus récent"
+  archive: "Archives"
+  archive-category: "Archives de la catégorie '%1'"
+  archive-tag: "Archives du tag '%1'"
+  comments: "Commentaires"

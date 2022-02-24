@@ -9,6 +9,4 @@ lang-exclusive: ['fr']
 ---
 
 
-Bonjour. [Ceci est notre menu.](/test/)
-
 Lire [mon CV](/resume/)

@@ -1,0 +1,8 @@
+<nav class="lang-switcher">
+  {% if site.active_lang == "en" %}
+  en/<a href=" /fr{{ page.url }}">fr</a>
+  {% else %}
+  <a href=" /en{{ page.url }}">en</a>/fr
+  {% endif %}
+</nav>
+
