@@ -21,6 +21,28 @@ $monospace-font-family: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", m
   margin-right: 60px;
 }
 
+
+// tables is the resume are title list
+
+.titled_list_table {
+   th:first-of-type {
+       white-space: nowrap;
+       width: 1%;
+   }
+   th:nth-of-type(2) {
+       width: 100%;
+   }
+
+   td:first-of-type {
+       white-space: nowrap;
+       width: 1%;
+       vertical-align: text-top;
+   }
+   td:nth-of-type(2) {
+       width: 100%;
+   }
+}
+
 //// User Tricks:
 // Scrollbar is always present to not upset the layout
 html {
