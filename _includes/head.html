@@ -24,7 +24,7 @@
     {% assign feed_path = site.feed.path %}
   {% endif %}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ feed_path | absolute_url }}">
-
+  
   {% include head_custom.html %}
 
   {% if site.facebook_app_id %}<meta property="fb:admins" content="{{ site.facebook_app_id }}">{% endif %}
@@ -65,5 +65,5 @@
   {% endif %}
   <meta name="google-site-verification" content="65FwXSi7Iy_ZlSE69YabxM9EUPY8OAY9SHR9uKF3baM" />
   {% include fonts.html %}
-
+  {% I18n_Headers %}
 </head>
