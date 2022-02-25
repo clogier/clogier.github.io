@@ -16,21 +16,21 @@ Mon CV
 
 |||
 |=====|========================|
-|2022 | **[MVA](https://www.master-mva.com/): Master de  Mathématiques, Vision, Apprentissage (M2)**, *École normale supérieure Paris-Saclay* |
+|2022 | **[MVA](https://www.master-mva.com/): Master de  Mathématiques, Vision, Apprentissage (M2)**, *École normale supérieure Paris-Saclay*|
 || Cours en apprentissage, vison, traitement d'image, statistiques, optimisation|
 |-----------------+--------------|
-|2021 | **L3 d'économie**, *École Normale Supérieure, Paris*, mention très bien.| 
+|2021 | **L3 d'économie**, *École Normale Supérieure, Paris*, mention très bien| 
 || Césure entre le M1 et M2 d'informatique. Cours en économetrie.|
 |-----------------+--------------|
-| 2020 | **M1 d'informatique**, *École Normale Supérieure, Paris*, mention très bien.|
+| 2020 | **M1 d'informatique**, *École Normale Supérieure, Paris*, mention très bien|
 || Cours notamment en apprentissage et vision.|
 |-----------------+--------------|
-|2019 | **L3 d'informatique**, *École Normale Supérieure, Paris*, mention très bien. |
+|2019 | **L3 d'informatique**, *École Normale Supérieure, Paris*, mention très bien |
 |-----------------+--------------|
 |2018 | **Admis à l'ENS**, *Lycée Louis-le-Grand, Paris* |
-|| Classé 25e au concours MPI.|
+|| Classé 25<sup>e</sup> au concours MPI.|
 |-----------------+--------------|
-|2017 | **Baccalauréat in Science**, *Lycée Eugène Delacroix, Maisons-Alfort*, mention très bien. |
+|2017 | **Baccalauréat S**, *Lycée Eugène Delacroix, Maisons-Alfort*, mention très bien |
 {: .titled_list_table}
 
 ## Expérience
