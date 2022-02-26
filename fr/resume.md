@@ -17,7 +17,7 @@ Mon CV
 |||
 |=====|========================|
 |2022 | **[MVA](https://www.master-mva.com/): Master de  Mathématiques, Vision, Apprentissage (M2)**, *École normale supérieure Paris-Saclay*|
-|| Cours en apprentissage, vison, traitement d'images, statistiques, optimisation|
+|| Cours en apprentissage, vison, traitement d'images, statistiques, optimisation.|
 |-----------------+--------------|
 |2021 | **L3 d'économie**, *École Normale Supérieure, Paris*, mention très bien| 
 || Césure entre le M1 et M2 d'informatique. Cours en économetrie.|
