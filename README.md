@@ -1,13 +1,10 @@
 # clogier.github.io
 
-Visit the [website](https://clogier.github.io).
+Visit the [website](https://www.clogier.com).
 
 Using whiteglass v 1.11.1
 
 ### TODO:
-- https://jekyll.github.io/jekyll-seo-tag/usage/
-- https://polyglot.untra.io/seo/
-- TLD
 - unify l18n files
 
 ### History of modifications: 
