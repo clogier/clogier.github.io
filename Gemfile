@@ -42,5 +42,3 @@ gem 'jekyll-redirect-from'
 gem "kramdown-parser-gfm"
 
 gem 'jekyll-seo-tag'
-
-gem 'jekyll-minifier'
