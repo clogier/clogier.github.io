@@ -40,6 +40,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-minifier
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
 paginate: 5

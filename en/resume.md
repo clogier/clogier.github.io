@@ -27,8 +27,7 @@ My Résumé
 |-----------------+--------------|
 |2019 | **Bachelor of Computer Science (L3)**, *École Normale Supérieure, Paris*, with highest honors |
 |-----------------+--------------|
-|2018 | **Admitted at the ENS**, *Lycée Louis-le-Grand, Paris* |
-|| Ranked 25 in the Mathematics/Computer Science competitive exam.|
+|2018 | **Admitted at the ENS**, *Lycée Louis-le-Grand, Paris*, ranked 25 in the Mathematics/Computer Science competitive exam|
 |-----------------+--------------|
 |2017 | **Baccalauréat in Science**, *Lycée Eugène Delacroix, Maisons-Alfort*, with highest honors |
 {: .titled_list_table}
@@ -53,8 +52,8 @@ My Résumé
 
 ### Coding Projects
 
-- **Image generation** SinGAN *(Pytorch)*
-- **Data Analysis** Mortality and wheat prices in Uzerche (France) *(R)*
+- **Image generation** with SinGAN *(Pytorch)*
+- **Data Analysis** of mortality and wheat prices in Uzerche (France) *(R)*
 - **Physical Modeling** of wave propagation in a random heterogeneous medium *(Python)*
 - **Static Analyzer** for a C-like language *(OCaml)*
 - **Compiler** for a sub-language of Kotlin *(OCaml)*

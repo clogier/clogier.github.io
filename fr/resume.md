@@ -17,7 +17,7 @@ Mon CV
 |||
 |=====|========================|
 |2022 | **[MVA](https://www.master-mva.com/): Master de  Mathématiques, Vision, Apprentissage (M2)**, *École normale supérieure Paris-Saclay*|
-|| Cours en apprentissage, vison, traitement d'image, statistiques, optimisation|
+|| Cours en apprentissage, vison, traitement d'images, statistiques, optimisation|
 |-----------------+--------------|
 |2021 | **L3 d'économie**, *École Normale Supérieure, Paris*, mention très bien| 
 || Césure entre le M1 et M2 d'informatique. Cours en économetrie.|
@@ -27,8 +27,7 @@ Mon CV
 |-----------------+--------------|
 |2019 | **L3 d'informatique**, *École Normale Supérieure, Paris*, mention très bien |
 |-----------------+--------------|
-|2018 | **Admis à l'ENS**, *Lycée Louis-le-Grand, Paris* |
-|| Classé 25<sup>e</sup> au concours MPI.|
+|2018 <sup></sup>| **Admis à l'ENS**, *Lycée Louis-le-Grand, Paris*, classé 25<sup>e</sup> au concours MPI|
 |-----------------+--------------|
 |2017 | **Baccalauréat S**, *Lycée Eugène Delacroix, Maisons-Alfort*, mention très bien |
 {: .titled_list_table}
@@ -53,8 +52,8 @@ Mon CV
 
 ### Programmation
 
-- **Génération d'images** SinGAN *(Pytorch)*
-- **Analyse des données** Mortalité et prix du blé à Uzerche (France)  *(R)*
+- **Génération d'images** avec SinGAN *(Pytorch)*
+- **Analyse des données** de mortalité et du prix du blé à Uzerche (France)  *(R)*
 - **Modélisation physique** de la propagation d'ondes dans un milieu hétérogène aléatoire *(Python)*
 - **Analyseur statique** pour un langage de type C  *(OCaml)*
 - **Compilateur** pour un sous-langage de Kotlin *(OCaml)*
